@@ -22,4 +22,4 @@
 - Change 24h:
 `https://img.shields.io/coincap/change-percent-24hr/{crypto}`
 
-You can run on your browser to test.
+You can run on your browser to test and use on .md or html file.
